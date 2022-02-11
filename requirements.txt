@@ -58,7 +58,7 @@ scour==0.32
 service-identity==16.0.0
 setproctitle==1.1.8
 six==1.10.0
-Twisted==16.0.0
+Twisted==22.1.0
 urllib3==1.13.1
 uTidylib==0.2
 vboxapi==1.0
