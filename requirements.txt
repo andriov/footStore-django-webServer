@@ -52,7 +52,7 @@ python-debian==0.1.27
 python-xlib==0.14
 pytz==2018.3
 pyxdg==0.25
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.9.1
 scour==0.32
 service-identity==16.0.0
